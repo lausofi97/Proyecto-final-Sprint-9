@@ -34,7 +34,7 @@ Priorizar B como candidata a despliegue, sujeto a verificar asignación experime
 
 ## Ver el análisis
 
-[Notebook del proyecto](https://github.com/lausofi97/Proyecto-final-Sprint-9/blob/main/S9%20Version_Student_Proyecto_Landing_Experiment%20%281%29.ipynb)
+[Notebook del proyecto](S9_Version_Student_Proyecto_Landing_Experiment_%281%29.ipynb)
 
 ## Alcance y limitaciones
 
