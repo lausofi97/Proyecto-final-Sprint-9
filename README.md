@@ -42,15 +42,17 @@ Priorizar B como candidata a despliegue, sujeto a verificar asignación experime
 - Antes de una decisión real se deben comprobar independencia, aleatorización, balance de muestra, duración y posibles comparaciones múltiples.
 - Las asociaciones de tráfico no demuestran que cambiar el canal cause una mejora.
 
-## Reproducibilidad
 
-1. Descarga o clona este repositorio.
-2. Abre el notebook enlazado en Jupyter.
-3. Instala las librerías importadas en el notebook en un entorno virtual.
-4. Ajusta las rutas de los datos a tu entorno. Los datasets no están incluidos en el repositorio revisado.
-5. Ejecuta todas las celdas en orden y revisa las salidas.
+## Cómo ejecutar el proyecto
 
-Los resultados anteriores se documentan a partir de las salidas guardadas del notebook; no representan una ejecución independiente de punta a punta.
+1. Descarga el notebook de este repositorio.
+2. Ábrelo en Google Colab.
+3. Sube el archivo `landing_experiment.csv` al entorno de Colab.
+4. Comprueba que la carga del dataset utilice esta ruta:
+   `/content/landing_experiment.csv`
+5. Ejecuta las celdas en orden y revisa los resultados.
+
+El dataset no está incluido en este repositorio. Para repetir el análisis necesitas disponer del archivo utilizado en el proyecto académico.
 
 ## Contacto
 
